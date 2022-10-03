@@ -3,6 +3,7 @@
 - 🔭 Em busca de evolução e de meu primeiro emprego
 - 🌱 Cursando Ciências da Computação
 - 👯 Aperfeiçoando meu conhecimento em Pyton e C
+- 📩 Contato: davisilvahenrique@gmail.com
 - ⚡ Hobbies: Jogar video games e programar
 
 <div align="center">
@@ -24,5 +25,4 @@
   <a href="https://www.instagram.com/davi_0423/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/zandor_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/FTjYvQ888u" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:davisilvahenrique@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davisilvahenrique/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
