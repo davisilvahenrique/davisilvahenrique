@@ -1,7 +1,6 @@
 ### Olá!! Meu nome é Davi Silva henrique
 
 - 🔭 Em busca de evolução e de meu primeiro emprego
-- 🌱 Cursando Ciências da Computação
 - 👯 Aperfeiçoando meu conhecimento em Pyton e C
 - 📩 Contato: davisilvahenrique@gmail.com
 - ⚡ Hobbies: Jogar video games e programar
