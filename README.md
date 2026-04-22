@@ -1,7 +1,7 @@
 # Olá! Eu sou o Davi Henrique! 🚀
 
 💻 **Desenvolvedor Web | Ciência da Computação - Senac Santo Amaro**  
-🎯 Focado em **C#, JavaScript, SQL e APIs** para soluções eficientes  
+🎯 Focado em **C#, JavaScript, SQL e APIs** para soluções eficientes
 📈 Atuo no setor financeiro, desenvolvendo aplicações web   
 
 <div align="left">
@@ -25,9 +25,18 @@
 ## 💼 Experiência & Projetos
 
 👨‍💻 **Desenvolvedor Web - IT4FINANCE (Jul/2024 - Presente)**  
-🔹 Desenvolvimento de aplicações web para o setor financeiro  
-🔹 Implementação de interfaces com **HTML, CSS, JavaScript**  
-🔹 Desenvolvimento de **APIs em C#** e manipulação de bancos de dados **SQL**  
+🔹 Otimizei queries críticas no SQL Server, reduzindo tempo de execução de horas para minutos e aumentando a
+disponibilidade dos sistemas em produção.  
+🔹 Desenvolvi e mantive APIs REST com operações CRUD completas e integrações entre sistemas corporativos
+usando C# e .NET.  
+🔹 Migrei regras de negócio do SQL para a camada de aplicação em C#, melhorando testabilidade, organização e
+manutenibilidade do código.
+🔹 Refatorei a camada de acesso a dados, reduzindo acoplamento e preparando a base para futuras evoluções
+arquiteturais.
+🔹 Desenvolvi interfaces web com HTML e JavaScript, atuando no ciclo completo desde o back-end até a entrega
+na tela.
+🔹 Resolvi incidentes em produção com diagnóstico rápido, garantindo estabilidade de sistemas de alta
+criticidade.
 
 ## 🌎 Conecte-se comigo
 
