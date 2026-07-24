@@ -1,9 +1,6 @@
 # Olá! Eu sou o Davi Henrique 👋
  
 💻 **Desenvolvedor Fullstack Jr** | Ciência da Computação — Senac Santo Amaro (2026)  
-🏦 Atuando no setor financeiro com sistemas web corporativos em produção  
-🎯 Stack principal: **C# · .NET · SQL Server · JavaScript**  
-📈 Em evolução para **React** e ecossistema front-end moderno  
 🌎 Inglês avançado
  
 ---
@@ -11,23 +8,18 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,vue,mysql,python,git" />
-</div>
-
----
- 
-## 📊 GitHub Stats
- 
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=davisilvahenrique&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisilvahenrique&layout=compact&langs_count=7&theme=github_dark"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,vue,mysql,mongodb,python,git" />
 </div>
 
 ---
  
 ## 💼 Experiência Profissional
+
+**Desenvolvedor Fullstack — Arquitetura Humana** *(Jul/2026 – presente)*
+
+---
  
-**Desenvolvedor Fullstack Jr — IT4FINANCE** *(Jul/2024 – Presente)*
+**Desenvolvedor Fullstack Jr — IT4FINANCE** *(Jul/2024 – Jun/2026)*
  
 - Otimizei queries críticas no SQL Server, reduzindo tempo de execução de **horas para minutos** em consultas de produção
 - Desenvolvi e mantive APIs REST com operações CRUD completas e integrações entre sistemas corporativos em C# e .NET
